@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="SoundPlayerWpf\SoundPlayerWpf.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoundPlayerWpf\Window1.xaml">
+    <Files>
+      <File FileName="SoundPlayerWpf\Window1.xaml" Line="10" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
